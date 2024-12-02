@@ -41,7 +41,7 @@ DATABASES = {
         "NAME": "ecommerce",
         "USER": "ecommerce_user",
         "PASSWORD": "ecommerce_pass",
-        "HOST": "127.0.0.1",
+        "HOST": "ecommerce-db.cbyc8see4mo6.us-west-2.rds.amazonaws.com",
         "PORT": 5432,
     }
 }
